@@ -191,7 +191,7 @@ plugins:
   # - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  # - jekyll-titles-from-headings
+  - jekyll-titles-from-headings
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -277,7 +277,3 @@ menu:
     url:   /resume/
   - title: About
     url:   /about/
-
-
-
-
