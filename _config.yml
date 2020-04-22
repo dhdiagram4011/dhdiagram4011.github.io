@@ -22,14 +22,12 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 dhdiagram4011
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  dhdiagram4011's Django Dev Study & Technical Blog.
 
 # A shorter description for the sidebar.
 tagline:               >
@@ -45,13 +43,13 @@ logo:                  /assets/icons/icon.png
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                dohyoung kim
+  email:               dhdiagram@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2017. All rights reserved.
+copyright:             © 2020. All rights reserved. By dhdiagram4011
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
